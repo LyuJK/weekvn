@@ -2171,7 +2171,7 @@ body {
   text-align: left;
 }
 .cid-rgwkJDfNds .mbr-section-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-rgqhJ3SbDG {
   padding-top: 0px;
@@ -2508,6 +2508,41 @@ body {
 .cid-rgwkFXrDjM .mbr-text,
 .cid-rgwkFXrDjM .mbr-section-btn {
   text-align: left;
+}
+.cid-roZr8Gp67Z {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-roZr8Gp67Z .title {
+  padding-bottom: 2.5rem;
+}
+.cid-roZr8Gp67Z .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-roZr8Gp67Z .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-roZr8Gp67Z .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-roZr8Gp67Z .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-roZr8Gp67Z .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-roZr8Gp67Z .iconfont-wrapper {
+    display: none;
+  }
 }
 .cid-riBzE9VBwg {
   padding-top: 60px;
