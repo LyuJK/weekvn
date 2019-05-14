@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "theweek",
+    "name": "weekvn",
     "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
@@ -35,7 +35,7 @@
     "uniqCompNum": 31,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ptc-stamp-128x128.png",
     "noImageResize": "",
     "сanonical-url": ""
   },
